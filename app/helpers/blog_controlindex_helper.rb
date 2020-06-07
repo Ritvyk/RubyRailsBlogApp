@@ -1,0 +1,2 @@
+module BlogControlindexHelper
+end
